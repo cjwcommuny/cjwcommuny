@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Diving deep into data infrastructure, with a special love for storage & databases.
+- 👨‍💻 Coding with Rust, Go, Python... fluent in languages that shape the future.
+- 😄 Embracing the elegance of functional programming, striving for cleaner, efficient code.
+- 🏫 Proud graduate of Zhejiang University, where the journey in computer science began.
+
 <!--
 **cjwcommuny/cjwcommuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
